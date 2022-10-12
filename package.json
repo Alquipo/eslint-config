@@ -1,6 +1,6 @@
 {
   "name": "@alquipo/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "ESLint configuration used by Alquipo projects.",
   "main": "index.js",
@@ -24,6 +24,7 @@
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-n": "^15.3.0",
     "eslint-plugin-promise": "^6.0.0",
+    "@next/eslint-plugin-next": "^12.3.1",
     "prettier": "^2.6.2"
   },
   "peerDependencies": {
