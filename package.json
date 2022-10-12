@@ -1,18 +1,18 @@
 {
   "name": "@alquipo/eslint-config",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "private": false,
   "description": "ESLint configuration used by Alquipo projects.",
   "main": "index.js",
   "license": "MIT",
   "author": "Alquipo neto",
   "repository": {
-    "url": "alquipo/eslint-config-alquipo"
+    "url": "Alquipo/eslint-config"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.19.0",
     "@typescript-eslint/parser": "^5.19.0",
-    "eslint": "^7.23.0 || ^8.0.0",
+    "eslint": "^7.32.0 || ^8.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-import-helpers": "^1.2.1",
@@ -28,7 +28,7 @@
     "prettier": "^2.6.2"
   },
   "peerDependencies": {
-    "eslint": "^7.23.0 || ^8.0.0",
+    "eslint": "^7.32.0 || ^8.0.0",
     "typescript": ">=3.3.1"
   },
   "peerDependenciesMeta": {
