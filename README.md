@@ -4,7 +4,6 @@
   </a>
 
   <h1>@alquipo/eslint-config </h1>
-  <p>Alquipo ESLint config</p>
 </div>
 
 <p align="center">
