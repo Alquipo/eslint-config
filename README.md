@@ -22,6 +22,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
 
+  <img alt="CI Workflow" src="https://github.com/Alquipo/eslint-config/actions/workflows/release-package.yml/badge.svg">
+
 </p>
 
 ## Whats included?
