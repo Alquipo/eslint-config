@@ -37,7 +37,7 @@ module.exports = {
       {
         "semi": false,
         "singleQuote": true,
-        "trailingComma": "all",
+        "trailingComma": "none",
         "arrowParens": "always",
         "printWidth": 80,
         "tabWidth": 2
